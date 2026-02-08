@@ -7,6 +7,16 @@ https://drive.google.com/file/d/13RoKcmqP6mNHMYhNhOkihSn1CnlFrucO/view?usp=shari
 
 **Look at the following directory for details such as accuracy, precision, recall and confusion matrices**
 https://github.com/Baalekshan/TRIT/tree/main/yolo_performance_metrics
+
+## Final metrics (image-agnostic, box-level)
+
+* Precision (B): 0.912
+* Recall (B): 0.885
+* F1-score (B): 0.899
+* mAP@50: 0.922
+* mAP@50–95: 0.555
+On an unseen validation set, the YOLOv8 detector achieved 91.2% precision, 88.5% recall, and an F1-score of 89.9%, with mAP@50 = 92.2%.
+
 # SEM Wafer Defect Detection using YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
