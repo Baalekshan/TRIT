@@ -1,0 +1,37 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Crack"
+    },
+    {
+      "id": 1,
+      "name": "LER"
+    },
+    {
+      "id": 2,
+      "name": "Open"
+    },
+    {
+      "id": 3,
+      "name": "Other"
+    },
+    {
+      "id": 4,
+      "name": "Particle"
+    },
+    {
+      "id": 5,
+      "name": "Protrusion"
+    },
+    {
+      "id": 6,
+      "name": "Short"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
