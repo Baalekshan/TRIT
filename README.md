@@ -25,7 +25,7 @@ On an unseen validation set, the YOLOv8 detector achieved 91.2% precision, 88.5%
 The model was quantised after training into .tflite format with minimal accuracy loss of ~2%.
 The size reduction is nearly half from ~5.9 MB to 3.03 MB
 
-Please look at val_preds/unquantised and val_preds/quantised for factual check
+Please look at val_pred/unquantised and val_pred/quantised for factual check, very slight difference in confidence scores can be noted.
 
 # SEM Wafer Defect Detection using YOLOv8
 
