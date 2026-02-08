@@ -50,7 +50,9 @@ Real SEM wafer defect datasets are rarely public due to IP sensitivities. To bri
 ### Structural Ground Truth
 Instead of using purely generative AI, this project uses **backend VLSI GDS layout files** as the ground truth. These layouts were transformed into realistic SEM images using:
 * **Classical Image Processing:** Grayscale conversion and Gaussian/Poisson noise injection.
-* **Structural Modeling:** Edge roughness and **Line Edge Roughness (LER)** modeling.
+* **Structural Modeling:** Edge roughness and **Line Edge Roughness (LER)** modeling.Please look at following colab notebook to see various image processing techniques we experimented with.
+https://colab.research.google.com/drive/1BI7L_7CHbxZ_soRvzMCH5Uerp2TZyaVN?usp=sharing
+
 * **Manual Defect Injection:** Realistic patterns (Opens, Shorts, Cracks) were injected using professional editing tools to ensure physical plausibility.
 <p align="center">
   <img width="210" height="210" src="https://github.com/user-attachments/assets/b426abe2-2e90-46ee-891f-c947c00b251b" alt="SEM Sample 1" />
