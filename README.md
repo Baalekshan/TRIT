@@ -26,7 +26,7 @@ The model was quantised after training into .tflite format with minimal accuracy
 The size reduction is nearly half from ~5.9 MB to 3.03 MB
 
 Please look at val_pred/unquantised and val_pred/quantised for factual check, very slight difference in confidence scores can be noted.
-
+val_pred - https://github.com/Baalekshan/TRIT/tree/main/val_pred
 # SEM Wafer Defect Detection using YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
