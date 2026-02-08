@@ -18,6 +18,9 @@ https://github.com/Baalekshan/TRIT/tree/main/yolo_performance_metrics
   
 On an unseen validation set, the YOLOv8 detector achieved 91.2% precision, 88.5% recall, and an F1-score of 89.9%, with mAP@50 = 92.2%.
 
+# Inferencing Procedure
+```yolo predict model=model\best.onnx source='{Val_folder}' save=True```
+
 # SEM Wafer Defect Detection using YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
