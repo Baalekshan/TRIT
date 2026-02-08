@@ -47,8 +47,8 @@ Instead of using purely generative AI, this project uses **backend VLSI GDS layo
 * **Structural Modeling:** Edge roughness and **Line Edge Roughness (LER)** modeling.
 * **Manual Defect Injection:** Realistic patterns (Opens, Shorts, Cracks) were injected using professional editing tools to ensure physical plausibility.
 <p align="center">
-  <img width="420" height="420" src="https://github.com/user-attachments/assets/b426abe2-2e90-46ee-891f-c947c00b251b" alt="SEM Sample 1" />
-  <img width="420" height="420" src="https://github.com/user-attachments/assets/b9f76b47-61c6-49d5-8c92-9409871072f0" alt="SEM Sample 2" />
+  <img width="210" height="210" src="https://github.com/user-attachments/assets/b426abe2-2e90-46ee-891f-c947c00b251b" alt="SEM Sample 1" />
+  <img width="210" height="210" src="https://github.com/user-attachments/assets/b9f76b47-61c6-49d5-8c92-9409871072f0" alt="SEM Sample 2" />
 </p>
 
 ### Dataset Augmentation
