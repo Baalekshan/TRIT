@@ -61,7 +61,7 @@ The dataset was supplemented with limited public sources to improve class balanc
 ---
 
 ## 🔍 Defect Classes
-The system detects **7 distinct classes** of semiconductor failures:
+The system detects **7 distinct classes** of semiconductor failures along with Clean:
 
 | Class ID | Defect Name | Description |
 | :--- | :--- | :--- |
@@ -72,6 +72,7 @@ The system detects **7 distinct classes** of semiconductor failures:
 | **4** | Particle | Foreign particle contamination |
 | **5** | Protrusion | Abnormal material protrusion from structures |
 | **6** | Short | Electrical short between parallel interconnects |
+| **7** | Clean | Clean images with no defects |
 
 ---
 
