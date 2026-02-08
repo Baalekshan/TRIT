@@ -1,9 +1,6 @@
 # TRIT
 **Dataset with Train Test Val split can be obtained here at**
-https://drive.google.com/file/d/1IZn4uo5TZwZHgQElhy8Q8orkm6kByqkB/view?usp=sharing
-
-**Annotated Dataset with labels and images for Yolo based models can be obtained here** 
-https://drive.google.com/file/d/13RoKcmqP6mNHMYhNhOkihSn1CnlFrucO/view?usp=sharing
+[https://drive.google.com/file/d/1IZn4uo5TZwZHgQElhy8Q8orkm6kByqkB/view?usp=sharing](https://drive.google.com/drive/folders/1sST52V4TWjXEKZ_qIln7MJ5eUgq26DJv?usp=sharing)
 
 **Look at the following directory for details such as accuracy, precision, recall and confusion matrices**
 https://github.com/Baalekshan/TRIT/tree/main/yolo_performance_metrics
