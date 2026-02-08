@@ -21,6 +21,12 @@ On an unseen validation set, the YOLOv8 detector achieved 91.2% precision, 88.5%
 # Inferencing Procedure
 ```yolo predict model=model\best.onnx source='{Val_folder}' save=True```
 
+# Post Training Quantization
+The model was quantised after training into .tflite format with minimal accuracy loss of ~2%.
+The size reduction is nearly half from ~5.9 MB to 3.03 MB
+
+Please look at val_preds/unquantised and val_preds/quantised for factual check
+
 # SEM Wafer Defect Detection using YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
