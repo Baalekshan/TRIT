@@ -4,6 +4,9 @@ https://drive.google.com/file/d/1IZn4uo5TZwZHgQElhy8Q8orkm6kByqkB/view?usp=shari
 
 **Annotated Dataset with labels and images for Yolo based models can be obtained here** 
 https://drive.google.com/file/d/13RoKcmqP6mNHMYhNhOkihSn1CnlFrucO/view?usp=sharing
+
+**Look at the following directory for details such as accuracy, precision, recall and confusion matrices**
+https://github.com/Baalekshan/TRIT/tree/main/yolo_performance_metrics
 # SEM Wafer Defect Detection using YOLOv8
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
