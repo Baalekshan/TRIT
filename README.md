@@ -1,5 +1,5 @@
 # TRIT
-**Dataset with Train Test Val split can be obtained here at**
+**Dataset satisfying deliverable requirement as well as annotated dataset can be obtained here at**
 [https://drive.google.com/file/d/1IZn4uo5TZwZHgQElhy8Q8orkm6kByqkB/view?usp=sharing](https://drive.google.com/drive/folders/1sST52V4TWjXEKZ_qIln7MJ5eUgq26DJv?usp=sharing)
 
 **Look at the following directory for details such as accuracy, precision, recall and confusion matrices**
